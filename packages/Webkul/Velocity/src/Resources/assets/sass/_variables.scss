@@ -1,0 +1,39 @@
+/*
+    Added back again because in chrome this is not using and light house also saying not used.
+    But in mozilla all fonts are gone which creating problem.
+*/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+
+/* velocity variables */
+$white-color: #ffffff;
+$black-color: #111111;
+$font-color: rgba(0, 0, 0, 0.83);
+$font-color-light: rgba(255, 255, 255, 0.83);
+$button-primary-bg: #cbc9c9;
+$border-primary: #269c77;
+$button-danger: #f05153;
+$border-danger: #f05153;
+$color-danger: #f05153;
+$border-common: #cccccc;
+$border-dark: #dcdcdc;
+$border-light: #ececec;
+$border-general: #e5e5e5;
+$theme-color: #ff1493;
+$theme-dark-color: #247959;
+$btn-text-color: #ffffff;
+$light-color: #ffffff;
+$dark-color: #000000;
+$light1-black: #141516;
+$light2-black: #cfcfd0;
+$link-color: #ff9eaf;
+$light-link-color: #28557b;
+$grey-clr: rgba(0, 0, 0, 0.53);
+$light-grey-clr: rgb(158, 158, 158);
+$light-background: #f7f7f9;
+
+/* other stuffs */
+$sidebar-width: 230px;
+$box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+$material-icons-font-path: "../material-icons/iconfont/" !default;
+$border-normal: 1px solid $border-dark;
+$font-family-pro: "Source Sans Pro", sans-serif;
